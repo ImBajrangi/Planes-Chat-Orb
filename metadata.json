@@ -1,0 +1,6 @@
+{
+  "name": "Planes Chat Orb Studio",
+  "description": "Interactive showcase and integration workspace for the Planes Chat Orb component.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
